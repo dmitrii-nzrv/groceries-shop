@@ -1,0 +1,21 @@
+# macOS скрытые файлы
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/*.pbxuser
+*.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+/.swiftpm/
+/.build/
+
+# Derived Data (временные файлы сборки)
+DerivedData/
+.idea/
